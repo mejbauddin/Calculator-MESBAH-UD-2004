@@ -1,0 +1,21 @@
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\DELL\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Moinuddin\Downloads\Project Main File\MESBAH UD-2004(Calculator)\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
